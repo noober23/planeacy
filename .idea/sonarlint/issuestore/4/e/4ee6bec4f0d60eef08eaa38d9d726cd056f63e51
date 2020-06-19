@@ -1,0 +1,17 @@
+
+i	php:S1192
+"HDefine a constant instead of duplicating this literal "action" 10 times.(‚ŸÙÛıÿÿÿÿ8ôÈÛÍª.
+b	php:S1192"FDefine a constant instead of duplicating this literal "order" 3 times.(‚·Õê8ôÈÛÍª.
+g	php:S1192"FDefine a constant instead of duplicating this literal "value" 4 times.(Û™‡ƒüÿÿÿÿ8ôÈÛÍª.
+l	php:S11920"KDefine a constant instead of duplicating this literal "teacher_id" 9 times.(È–ƒãøÿÿÿÿ8ôÈÛÍª.
+y	php:S2068J"X'password' detected in this variable name, review this potentially hardcoded credential.(ÒÏ€«ıÿÿÿÿ8ôÈÛÍª.
+n	php:S1192-"MDefine a constant instead of duplicating this literal "teacher_name" 6 times.(Œ¥ùÿÿÿÿ8ôÈÛÍª.
+n	php:S1192‘"LDefine a constant instead of duplicating this literal "teacher_doj" 5 times.(‘§Ëùÿÿÿÿ8ôÈÛÍª.
+x	php:S1192‹"VDefine a constant instead of duplicating this literal "teacher_qualification" 5 times.(ç ööûÿÿÿÿ8ôÈÛÍª.
+j	php:S1192,"NDefine a constant instead of duplicating this literal "teacher_image" 7 times.(…ı•¬8ôÈÛÍª.
+s	php:S1192…"QDefine a constant instead of duplicating this literal "teacher_grade_id" 4 times.(íƒª¿ùÿÿÿÿ8ôÈÛÍª.
+l	php:S1192l"PDefine a constant instead of duplicating this literal "teacher_address" 5 times.(¤îö¾8ôÈÛÍª.
+q	php:S1192."PDefine a constant instead of duplicating this literal "teacher_emailid" 5 times.(ÿ¼Àÿÿÿÿÿ8ôÈÛÍª.
+h	php:S1192"GDefine a constant instead of duplicating this literal "search" 4 times.(Û™‡ƒüÿÿÿÿ8ôÈÛÍª.
+t	php:S2068B"X'password' detected in this variable name, review this potentially hardcoded credential.(êˆÅŞ8ôÈÛÍª.
+y	php:S2068"X'password' detected in this variable name, review this potentially hardcoded credential.(ŞíúÇøÿÿÿÿ8ôÈÛÍª.

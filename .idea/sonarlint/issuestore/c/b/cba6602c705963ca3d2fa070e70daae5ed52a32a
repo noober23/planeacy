@@ -1,0 +1,7 @@
+
+y	php:S1488)"]Immediately return this expression instead of assigning it to the temporary variable "$data".(ù„ÕÂ8®§ûï«.
+\	php:S18549";Remove this useless assignment to local variable '$result'.(Îëæ˜ıÿÿÿÿ8˜× ğ«.
+~	php:S14882"cImmediately return this expression instead of assigning it to the temporary variable "$resExecute".(ºˆ•8Öª–ğ«.
+M	php:S14811",Remove this unused "$update" local variable.(¸³Ãüÿÿÿÿ8¢¢Œğ«.
+y	php:S1488!"]Immediately return this expression instead of assigning it to the temporary variable "$data".(Ç¥–ß8Ëøï«.
+{	php:S1488:"_Immediately return this expression instead of assigning it to the temporary variable "$result".(Œ”êŠ8˜× ğ«.
